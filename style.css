@@ -1,0 +1,58 @@
+.exone{
+text-align: center;
+background-color: #583d72;
+border: solid;
+border-color: black;
+border-width: thick;
+
+}
+.sci{
+  border-radius: 50%;
+  border-top: dashed;
+  border-bottom: dotted;
+  border-right: outset;
+  border-left: double;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-width: 50px;
+
+  border-color: #f37121;
+}
+.hone{
+  margin-top: 30px;
+  color: #f37121;
+  border: outset;
+margin-left: 30%;
+margin-right: 30%;
+border-radius: 20%;
+}
+.htwo{
+  color:#f37121;
+  border-bottom: solid;
+  margin-left: 40%;
+  margin-right: 40%;
+
+
+}
+.con{
+  color: red;
+  font-size: 20px;
+}
+.hthree{
+  color: #f37121;
+  border-left: dashed;
+  border-right: dashed;
+border-color: red;
+margin-left: 5%;
+margin-right: 5%;
+
+}
+.ok{
+font-size: 50px;
+color: #fff76a;
+}
+.okone{
+  margin-left: 80%;
+  color: #fff76a;
+}
